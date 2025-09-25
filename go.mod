@@ -2,7 +2,7 @@ module wx_channel
 
 go 1.23
 
-toolchain go1.23.4
+
 
 require (
 	github.com/fatih/color v1.17.0
